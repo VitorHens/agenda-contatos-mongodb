@@ -1,0 +1,7 @@
+.env
+.venv/
+.local-libs/
+.executar_local.cmd
+__pycache__/
+*.py[cod]
+exportacoes/
